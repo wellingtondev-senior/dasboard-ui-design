@@ -1,7 +1,15 @@
 {
-  "name": "dashboard-ui-design",
+  "name": "@wellingtondev/dashboard-ui-design",
   "version": "0.1.0",
-  "private": true,
+  "description": "dashboard-ui-design",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wellingtondev-senior/dasboard-ui-design"
+  },
+  "homepage": "https://github.com/wellingtondev-senior/dasboard-ui-design",
+  "main": "dist/index.js",
+  "types": "dist",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
